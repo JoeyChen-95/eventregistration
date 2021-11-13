@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8871c3cf-bf72-46a7-97d2-84fca8b3346d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/controller/EventRegistrationRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/dto/EventDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/dto/PersonDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/dto/RegistrationDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/service/EventRegistrationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/test/java/ca/mcgill/ecse321/eventregistration/service/TestEventRegistrationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/EventRegistrationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/EventRegistrationApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/models/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/model/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/model/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/models/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/model/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/models/RegistrationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/java/ca/mcgill/ecse321/eventregistration/model/RegistrationManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EventRegistration-Backend/src/test/java/ca/mcgill/ecse321/eventregistration/EventRegistrationApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/EventRegistration-Backend/src/test/java/ca/mcgill/ecse321/eventregistration/EventRegistrationApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventregistration-frontend/src/components/EventRegistration.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventregistration-frontend/src/components/registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventregistration-frontend/src/components/sb.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventregistration-frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/eventregistration-frontend/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +20,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="EventRegistrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -74,11 +73,22 @@
       <option name="presentableId" value="Default" />
       <updated>1633891584760</updated>
       <workItem from="1633891585380" duration="358000" />
-      <workItem from="1636768426281" duration="423000" />
+      <workItem from="1636768426281" duration="2851000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
